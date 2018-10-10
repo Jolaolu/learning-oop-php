@@ -16,4 +16,6 @@ $post = new Post;
 $post-> name = 'testing';
 echo $post->name;
 
+
+
 ?>

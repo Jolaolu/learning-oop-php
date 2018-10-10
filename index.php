@@ -16,14 +16,16 @@
         }
         public function login($userName,$password){
                $this->auth_user($userName,$password);
-            }
+            }//parses the value to auth_user
 
         public function auth_user($userName,$password){
             echo $userName . ' is authenticated<br>';
         }
-        public function __destruct(){
+        public function __destruct()
+        {
             // TODO: Implement __destruct() method.
-        }
+
+        }//kinda used to close a program
     }
 
 
