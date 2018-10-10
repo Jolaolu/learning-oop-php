@@ -1,6 +1,6 @@
 
 # PHP OOP
-#### This file contains all codes written whilst learning the fundamentals of  OOP in PHP.
+##### This file contains all codes written whilst learning the fundamentals of  OOP in PHP.
 
 ### Contents
 
