@@ -1,5 +1,5 @@
 <?php
-    class bar{
+    class bar extends foo {
 
     }
 ?>
